@@ -6,5 +6,10 @@
 ### Today's Target
 - [x] Task 1: Read NepTrails overview and write summary
 
-## 1.1 NepTrails Summary
+#### 1.1 NepTrails Summary
 Neptrails is a GIS-based travel-tech startup that maps and improves trail tourism in Nepal. Field teams collect spatial daata using GPS devices, phones, and cameras during trail surveys. This raw data is theen processed through a series of Python scripts inside QGIS, moving  from point data to stitched line data. Processed information is stored in GeoPackage{.gpkg} files and eventually synced with OpenStreetMap, whicch acts as a the mainn external database. Before anything is uploaded, a "Guarded Upload" system checks the data quality and can roll back changes if something goes wrong.
+
+- [x] Task 2: Set up environment (tools, folders, Git, CRS)
+
+#### 1.2 Environment Setup Summary
+Verified that Python, Git, PostgreSQL, QGIS, and VS Code were all installed and working. Created the project folder structure (data, logs, scripts, sops). Initialized a Git repository, made the first commit, and connected it to a GitHub repository (rima-gis/Garima-Intern). Also set QGIS's default CRS to EPSG:4326 in Settings so all new projects use it automatically.
