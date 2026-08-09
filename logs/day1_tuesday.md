@@ -1,6 +1,6 @@
 # Day 1 — Tuesday — August 9, 2026
 **Candidate**: Garima Dhakal
-**Work Structure**: [Field / Hybrid / Office] 
+**Work Structure**: [ Hybrid ] 
 
 ## 1. Morning Plan (09:00 – 09:30)
 ### Today's Target
