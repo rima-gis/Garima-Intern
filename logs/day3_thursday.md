@@ -47,6 +47,7 @@
 - [x] Recorded `my_track.gpx` (1111.29 m, 3 named waypoints: Nursery, School, Cafe) via Geo Tracker for Android
 - [x] Imported GPX into QGIS (track_points, tracks, waypoints sublayers)
 - [x] Styled tracks layer (red line, width 2) and waypoints layer (yellow circle marker, size 8)
+- [x](my_tracks_screenshot_qgis.png)
 - [x] Verified track alignment against basemap — track follows real street shapes correctly
 - [x] Reprojected tracks layer to EPSG:32645 (UTM Zone 45N) and calculated track length: **1111.3 m**
 - [x] Calculated elevation statistics on track_points (`ele` field):
@@ -55,16 +56,15 @@
   - Mean: 1286.53 m
   - Standard deviation: 11.65 m
   - Elevation gain (Max − Min): 43.14 m
+  
 - [x] Wrote SOP: `sops/sop_002_gpx_import_analysis.md`
 
 ### Lessons Learned
-- GPS accuracy is unaffected by internet connectivity, but initial signal lock is faster with a data connection (A-GPS) and a clear view of the sky
 - A GPX track can contain multiple `trkseg` segments if the GPS loses signal or recording is paused/resumed — this is expected behavior, not an error (observed a segment break near the Cafe waypoint)
 - GPX layers loaded directly into QGIS are read-only; editing attributes requires exporting to an editable format (e.g. GeoPackage) first
-- `$length` returns degrees under a geographic CRS (EPSG:4326) and must be recalculated after reprojecting to a metric CRS (EPSG:32645 for Nepal) to get a usable meter value
 
 ### SOP Created Today
 - [x] Yes → File: `sops/sop_002_gpx_import_analysis.md`
 
 ### Tomorrow's Plan
--  Continue with Day 3 tasks as assigned
+-  Continue with Day 4  tasks as assigned
