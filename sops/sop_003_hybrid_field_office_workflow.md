@@ -44,4 +44,4 @@
 - [x] Verify waypoint count in `day4_enriched_waypoints.gpkg` matches the number marked in the field.
 - [x] Confirm `survey_date`, `surveyor`, and `category` fields are populated for every waypoint row (no blanks).
 - [x] Confirm at least 2 photos exist in `data/photos/day4/`, named to match their waypoints.
-- [ ] Confirm git commit includes GPX, gpkg, photos, and this SOP file.
+- [x] Confirm git commit includes GPX, gpkg, photos, and this SOP file.
