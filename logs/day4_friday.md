@@ -46,7 +46,7 @@
 - [x] Data transferred and verified in QGIS
 - [x] Exported waypoints to data/day4_enriched_waypoints.gpkg
 - [x] Added survey_date, surveyor, category fields via Field Calculator
-- [ ] nearest_road_distance — not completed (reason: OSM Standard was a raster basemap only, no vector road layer available for spatial join)
+- [] nearest_road_distance — not completed (reason: OSM Standard was a raster basemap only, no vector road layer available for spatial join)
 - [x] Wrote sop_003_hybrid_field_office_workflow.md
 
 ### Lessons Learned
