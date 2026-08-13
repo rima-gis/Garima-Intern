@@ -1,0 +1,32 @@
+fid,ele,time,magvar,geoidheight,name,cmt,desc,src,link1_href,link1_text,link1_type,link2_href,link2_text,link2_type,sym,type,fix,sat,hdop,vdop,pdop,ageofdgpsdata,dgpsid,geotracker_meta,survey_date,surveyor,Category,utm_x,utm_y,description
+1,1291.61,2026/08/12 05:06:54+00,,,Start point,,"Speed: 0 mph
+Elevation: 4238 ft
+Accuracy: 12 ft",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Origin,330407.647940132,3066255.09458778,Start point - Origin (1291.61m)
+2,1293.53,2026/08/12 05:07:41+00,,,Tower,,"Speed: 2.95 mph
+Elevation: 4244 ft
+Time from start: 00:00:44
+Distance from start: 138 ft",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Landmark,330444.178471907,3066234.20239823,Tower - Landmark (1293.53m)
+3,1284.18,2026/08/12 05:09:49+00,,,Hospital ,,"Speed: 0 mph
+Elevation: 4203 ft
+Time from start: 00:02:52
+Distance from start: 514 ft",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Landmark,330518.425720677,3066148.90143864,Hospital  - Landmark (1284.18m)
+4,1280.92,2026/08/12 05:13:42+00,,,Mall,,"Speed: 2.59 mph
+Elevation: 4199 ft
+Time from start: 00:06:45
+Distance from start: 755 ft",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Landmark,330583.407873041,3066093.52432853,Mall - Landmark (1280.92m)
+5,1270.29,2026/08/12 05:18:11+00,,,Road_junction,,"Speed: 1.77 mph
+Elevation: 4160 ft
+Time from start: 00:11:14
+Distance from start: 1035 ft",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Junction,330650.72383235,3066018.94978203,Road_junction - Junction (1270.29m)
+6,1267.76,2026/08/12 05:23:16+00,,,School ,,"Speed: 2.17 mph
+Elevation: 4161 ft
+Time from start: 00:16:19
+Distance from start: 1865 ft",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Landmark,330525.509096925,3066202.03745159,School  - Landmark (1267.76m)
+7,1296.79,2026/08/12 05:49:08+00,,,Crosswalk,,"Speed: 3.11 mph
+Elevation: 4253 ft
+Time from start: 00:42:11
+Distance from start: 1.08 mi",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Hazard,330343.042000688,3066316.80976735,Crosswalk - Hazard (1296.79m)
+8,1291.63,2026/08/12 05:06:57+00,,,End point ,,"Speed: 0 mph
+Elevation: 4238 ft
+Time from start: 00:00:00
+Distance from start: 0 ft",,,,,,,,,,,,,,,,,,2026-08-14,Garima Dhakal,Destination,330407.640991019,3066255.0913602,End point  - Destination (1291.63m)

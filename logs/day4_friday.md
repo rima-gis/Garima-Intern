@@ -10,8 +10,9 @@
 - **What I accomplished yesterday**:
   - Recorded a GPX track with 3 named waypoints near Sitapaila, imported and styled in QGIS, calculated track length/elevation stats, wrote sop_002_gpx_import_analysis.md
 - **What I did not complete**:
-  - N/A
-- **Why (if incomplete)**:
+  - nearest_road_distance — not completed 
+
+- **Why (if incomplete)**: (reason: OSM Standard was a raster basemap only, no vector road layer available for spatial join)
   -
 
 ### Today's Target
@@ -28,7 +29,7 @@
 
 ### Morning Session Review
 - **Tasks completed this morning**:
-  - Completed field survey (~1.5–2 km route near NepTrails' office), recorded GPX track, marked [N] waypoints, took [N] photos
+  - Completed field survey (~1.5–2 km route near NepTrails' office), recorded GPX track, marked [7] waypoints, took [12] photos
   - Transferred GPX to data/day4_hybrid_survey.gpx and photos to data/photos/day4/
   - Loaded GPX into QGIS, verified alignment against basemap
 - **Current blockers**:
